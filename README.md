@@ -27,9 +27,3 @@
   <img src="https://img.shields.io/badge/-Vite-e3ecf2?style=flat-square&logo=Vite&logoColor=3c536c"/>
   <img src="https://img.shields.io/badge/-GraphQL-e3ecf2?style=flat-square&logo=GraphQL&logoColor=3c536c"/>
 </p>
-
-----
-
-<p>
-  <img src="http://views.whatilearened.today/views/github/Mathiew82/views.svg"/>
-</p>
