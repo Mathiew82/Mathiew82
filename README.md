@@ -1,28 +1,28 @@
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Mathiew82&show_icons=true&hide_border=false&line_height=20&title_color=e93b73&icon_color=6c7e8d&show_owner=true"/>
   <p>
-    <img src="https://img.shields.io/badge/-HTML-1c334c?style=flat-square&logo=HTML5&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-CSS-1c334c?style=flat-square&logo=CSS3&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-SASS-1c334c?style=flat-square&logo=SASS&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-JavaScript-1c334c?style=flat-square&logo=javascript&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-TypeScript-1c334c?style=flat-square&logo=typescript&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-ESLint-1c334c?style=flat-square&logo=ESLint&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-Vue.js-1c334c?style=flat-square&logo=Vue.js&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-Nuxt.js-1c334c?style=flat-square&logo=Nuxt.js&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-React-1c334c?style=flat-square&logo=React&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-Redux-1c334c?style=flat-square&logo=Redux&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-VSC-1c334c?style=flat-square&logo=Visual%20Studio%20Code&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-VIM-1c334c?style=flat-square&logo=VIM&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-neoVIM-1c334c?style=flat-square&logo=neoVIM&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-Github-1c334c?style=flat-square&logo=GitHub&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-Git-1c334c?style=flat-square&logo=Git&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-Trello-1c334c?style=flat-square&logo=Trello&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-Jira-1c334c?style=flat-square&logo=Jira&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-Slack-1c334c?style=flat-square&logo=Slack&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-php-1c334c?style=flat-square&logo=php&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-MySQL-1c334c?style=flat-square&logo=MySQL&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-MongoDB-1c334c?style=flat-square&logo=MongoDB&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-Vite-1c334c?style=flat-square&logo=Vite&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-GraphQL-1c334c?style=flat-square&logo=GraphQL&logoColor=8ca3bc"/>
+    <img src="https://img.shields.io/badge/-HTML-e3ecf2?style=flat-square&logo=HTML5&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-CSS-e3ecf2?style=flat-square&logo=CSS3&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-SASS-e3ecf2?style=flat-square&logo=SASS&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-JavaScript-e3ecf2?style=flat-square&logo=javascript&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-TypeScript-e3ecf2?style=flat-square&logo=typescript&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-ESLint-e3ecf2?style=flat-square&logo=ESLint&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-Vue.js-e3ecf2?style=flat-square&logo=Vue.js&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-Nuxt.js-e3ecf2?style=flat-square&logo=Nuxt.js&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-React-e3ecf2?style=flat-square&logo=React&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-Redux-e3ecf2?style=flat-square&logo=Redux&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-VSC-e3ecf2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-VIM-e3ecf2?style=flat-square&logo=VIM&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-neoVIM-e3ecf2?style=flat-square&logo=neoVIM&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-Github-e3ecf2?style=flat-square&logo=GitHub&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-Git-e3ecf2?style=flat-square&logo=Git&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-Trello-e3ecf2?style=flat-square&logo=Trello&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-Jira-e3ecf2?style=flat-square&logo=Jira&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-Slack-e3ecf2?style=flat-square&logo=Slack&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-php-e3ecf2?style=flat-square&logo=php&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-MySQL-e3ecf2?style=flat-square&logo=MySQL&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-MongoDB-e3ecf2?style=flat-square&logo=MongoDB&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-Vite-e3ecf2?style=flat-square&logo=Vite&logoColor=3c536c"/>
+    <img src="https://img.shields.io/badge/-GraphQL-e3ecf2?style=flat-square&logo=GraphQL&logoColor=3c536c"/>
   </p>
 </p>
