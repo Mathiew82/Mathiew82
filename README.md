@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Nuxt.js-1c334c?style=flat-square&logo=Nuxt.js&logoColor=8ca3bc"/>
     <img src="https://img.shields.io/badge/-React-1c334c?style=flat-square&logo=React&logoColor=8ca3bc"/>
     <img src="https://img.shields.io/badge/-Redux-1c334c?style=flat-square&logo=Redux&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-1c334c?style=flat-square&logo=Visual%20Studio%20Code&logoColor=8ca3bc"/>
+    <img src="https://img.shields.io/badge/-VSC-1c334c?style=flat-square&logo=Visual%20Studio%20Code&logoColor=8ca3bc"/>
     <img src="https://img.shields.io/badge/-VIM-1c334c?style=flat-square&logo=VIM&logoColor=8ca3bc"/>
     <img src="https://img.shields.io/badge/-neoVIM-1c334c?style=flat-square&logo=neoVIM&logoColor=8ca3bc"/>
     <img src="https://img.shields.io/badge/-Github-1c334c?style=flat-square&logo=GitHub&logoColor=8ca3bc"/>
@@ -24,6 +24,5 @@
     <img src="https://img.shields.io/badge/-MongoDB-1c334c?style=flat-square&logo=MongoDB&logoColor=8ca3bc"/>
     <img src="https://img.shields.io/badge/-Vite-1c334c?style=flat-square&logo=Vite&logoColor=8ca3bc"/>
     <img src="https://img.shields.io/badge/-GraphQL-1c334c?style=flat-square&logo=GraphQL&logoColor=8ca3bc"/>
-    <img src="https://img.shields.io/badge/-SQLite-1c334c?style=flat-square&logo=SQLite&logoColor=8ca3bc"/>
   </p>
 </p>
