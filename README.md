@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Mathiew82&show_icons=true&hide_border=false&line_height=20&title_color=e93b73&icon_color=e93b73&show_owner=true"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Mathiew82&show_icons=true&hide_border=false&line_height=20&title_color=e93b73&icon_color=6c7e8d&show_owner=true"/>
   <p>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
