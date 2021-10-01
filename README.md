@@ -1,10 +1,6 @@
 ### Hi there!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="26px">
 
 ---
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiew82&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 **These are my skills and preferred technologies:**
 
