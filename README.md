@@ -2,8 +2,14 @@
 
 ---
 
-<img align="center" width="420" height="150" src="https://github-readme-stats.vercel.app/api?username=Mathiew82&show_icons=true&hide_border=false&line_height=20&title_color=e93b73&icon_color=7c8e9d&show_owner=true&locale=en&hide_border=true&bg_color=1c334c&text_color=c9cdcf&custom_title=Stats%20data&hide_title=true"/>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiew82&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+---
+  
 <p>
   <img src="https://img.shields.io/badge/-HTML-e3ecf2?style=flat-square&logo=HTML5&logoColor=3c536c"/>
   <img src="https://img.shields.io/badge/-CSS-e3ecf2?style=flat-square&logo=CSS3&logoColor=3c536c"/>
