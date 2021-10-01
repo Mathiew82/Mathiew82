@@ -1,15 +1,13 @@
 ### Hi there!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="26px">
 
 ---
-
-<div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiew82&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiew82&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-  
+
+**These are my skills and preferred technologies:**
+
 <p>
   <img src="https://img.shields.io/badge/-HTML-e3ecf2?style=flat-square&logo=HTML5&logoColor=3c536c"/>
   <img src="https://img.shields.io/badge/-CSS-e3ecf2?style=flat-square&logo=CSS3&logoColor=3c536c"/>
