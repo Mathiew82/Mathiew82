@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00aabb&size=30&width=500&height=50&lines=Hi+there!+👋;Frontend+developer;I+love+cats+🐈‍⬛">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&color=00aabb&size=30&width=500&height=50&lines=Hi+there!+👋;Frontend+developer;I+love+cats+🐈‍⬛">
 
 <pre>
  term:~$ <strong>info ls</strong>
