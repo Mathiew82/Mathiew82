@@ -2,12 +2,12 @@
 
 <pre>
  term:~$ <strong>info ls</strong>
- -----------------------------------
- Shell:        | bash
- OS:           | Linux
- Browser:      | Brave
- Editor:       | Zed / vsc / neovim
- Experience:   | +10
- Portfolio:    | <a href="https://amateo82.es/">amateo82.es</a>
- -----------------------------------
+ -------------------------------------
+ | Shell        : bash               |
+ | OS           : Linux              |
+ | Browser      : Brave              |
+ | Editor       : Zed / vsc / neovim |
+ | Experience   : +10                |
+ | Portfolio    : <a href="https://amateo82.es/">amateo82.es</a>        |
+ -------------------------------------
 </pre>
