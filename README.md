@@ -2,8 +2,9 @@
 
 <pre>
  term:~$ <strong>info ls</strong>
- OS:             Linux
+ 
  Shell:          bash
+ OS:             Linux
  Browser:        Brave
  Editor:         Zed / vsc / neovim
  Experience:     +10
