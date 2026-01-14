@@ -3,7 +3,7 @@
 <pre>
  term:~$ <strong>info ls</strong>
  +--------------+--------------------+
- | Shell        | bash               |
+ | Shell        | kitty              |
  | OS           | Linux              |
  | Browser      | Brave              |
  | Editor       | Neovim / VS Code   |
