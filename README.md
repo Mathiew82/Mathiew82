@@ -5,8 +5,8 @@
  +--------------+--------------------+
  | Shell        | bash               |
  | OS           | Linux              |
- | Browser      | Brave / Vivaldi    |
- | Editor       | Zed / vsc / neovim |
+ | Browser      | Brave              |
+ | Editor       | Neovim / vsc       |
  | Experience   | +10                |
  | Portfolio    | <a href="https://amateo82.es/">amateo82.es</a>        |
  +--------------+--------------------+
