@@ -6,7 +6,7 @@
  | Shell        | kitty              |
  | OS           | Linux              |
  | Browser      | Brave              |
- | Editor       | Neovim / VS Code   |
+ | Editor       | Neovim             |
  | Experience   | +10                |
  | Portfolio    | <a href="https://amateo82.es/">amateo82.es</a>        |
  +--------------+--------------------+
