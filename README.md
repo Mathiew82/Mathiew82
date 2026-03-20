@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=2000&color=00aabb&size=30&width=500&height=50&lines=Hi+there!+👋;I'm+a+Developer;I+love+cats+🐈‍⬛">
-
 <pre>
  term:~$ <strong>mathiew82 --info</strong>
  +--------------+--------------------+
